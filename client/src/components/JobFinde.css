@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.form-job{
+    margin-top: 12%;
+}
+
+.MuiInput-root {
+    position: relative;
+    margin: 5%;
+}
+
+
+#standard-basic{
+    font-size: 25px;
+    padding: 4px 0;
+    width: 100%;
+    background: none;
+    text-align: left;
+    margin-right: 5%;
+}
+
