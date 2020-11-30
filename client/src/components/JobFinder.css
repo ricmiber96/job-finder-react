@@ -24,3 +24,19 @@
     margin-right: 5%;
 }
 
+button.buttonSearch{
+    margin-right: 7px;
+}
+
+button {
+    margin-top: 25px;
+}
+
+nav.pagination-job{
+
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-bottom: 5%;
+}
